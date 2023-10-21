@@ -1,2 +1,3 @@
 Hi this is user service.
 processing our user.
+Create a new avatar
